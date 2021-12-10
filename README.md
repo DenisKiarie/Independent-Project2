@@ -13,3 +13,10 @@ A web application that takes a user's birthday and calculates the day of the wee
 
 **Phone :** _0726916068_
 
+### License & Copyright.
+
+Licensed under the [MIT LICENSE](LICENSE).
+
+
+
+
