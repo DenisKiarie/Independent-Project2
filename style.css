@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(rgba(117,17,74,0.5),rgba(117,17,74,0.5)),url(milky.jpg);
+    background-size: 100% 100%;
+    color: #fff;
+  
+}
+
+form {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 20px;
+    font-family: serif;
+    color: #fff;    
+}
+
+p {
+    text-align: center;
+}
+
