@@ -30,7 +30,7 @@ Below are the tecnologies used to create this application:
 
 ### Project Link.
 
-[Live link]( https://deniskiarie.github.io/Independent-Project2/)
+[Live link]( https://deniskiarie.github.io/Independent-Project2/ "click here")
 
 ### License & Copyright.
 
