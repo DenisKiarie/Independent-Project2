@@ -18,6 +18,15 @@ A web application that takes a user's birthday and calculates the day of the wee
 
 **Phone :** _0726916068_
 
+
+### Technologies used.
+
+Below are the tecnologies used to create this application:
+
+1. HTML
+2. CSS
+3. Javascript
+
 ### License & Copyright.
 
 Licensed under the [MIT LICENSE](LICENSE).
