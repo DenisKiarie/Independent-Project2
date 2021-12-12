@@ -27,6 +27,11 @@ Below are the tecnologies used to create this application:
 2. CSS
 3. Javascript
 
+
+### Project Link.
+
+[Live link]( https://deniskiarie.github.io/Independent-Project2/)
+
 ### License & Copyright.
 
 Licensed under the [MIT LICENSE](LICENSE).
