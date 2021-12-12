@@ -11,8 +11,6 @@ function validate(){
         alert("select a gender");
         return false;
     }
-
     
-
 }
 
