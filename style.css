@@ -12,7 +12,10 @@ form {
     padding: 20px;
     font-size: 20px;
     font-family: serif;
-    color: #fff;    
+    color: #fff;
+    min-height: 100vh;    
+    align-items: center;
+    
 }
 
 p {
