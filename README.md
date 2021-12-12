@@ -12,7 +12,7 @@ A web application that takes a user's birthday and calculates the day of the wee
 
 ### Contact Info.
 
-**Twitter @ :** _DenisKarie7_
+**Twitter :** @ _DenisKarie7_
 
 **Email :** _denis.kiarie@student.moringaschool.com_
 
